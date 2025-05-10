@@ -1,0 +1,197 @@
+
+#function fish_prompt # gets the error status of the last command and 
+#  # updates the prompt symbol color with the indication
+#  if test "$status" -ne "0"
+#    set -gx ARROW "$ERROR"
+#    set LAST_CMD_SUCCESS 0
+#  else
+#    set -gx ARROW "$SUCCESS"
+#    set LAST_CMD_SUCCESS 1
+#  end
+
+#   print_user
+#   print_host
+#  print_date 
+#  pretty_path 
+#  get_branch
+#  print_prompt
+#  if test "$LAST_CMD_SUCCESS" -ne 0
+    # don't commit errant commands to history
+    #    copy_history
+    #  end
+    #end
+
+# function copy_history
+#   echo $history[1] | /usr/bin/grep -Ev '(^hh$|^sd|^l.$)' >> ~/.local/share/fish/hh.history
+# end
+
+
+# function print_prompt
+#   echo -e (set_color $ARROW)"\n❯ "(set_color normal)
+# end
+
+# function print_date
+#   set TIME_ICON \uF017
+#   set DATE_STRING (date -u '+%H:%M:%S')
+  
+#   echo -n (set_color $DATE_COLOR)"$TIME_ICON $DATE_STRING UTC"
+# end
+
+# function pretty_path
+#   # by default, Fish shell does not print ~ for $HOME
+#   set CWD (pwd | sed "s|^$HOME|~|g")
+#   set HOME_ICON \uF07C
+#   # Unicode thin-space char.  This one is worth bookmarking.
+#   set THIN_SPACE \u2009
+  
+#   echo -n (set_color $PATH_COLOR)" $HOME_ICON $THIN_SPACE$CWD" 
+# end
+
+# function print_host
+#   set HOST_STRING (echo $hostname | cut -f1 -d".")
+#   echo -n (set_color $HOST_COLOR)"$HOST_STRING "
+# end
+
+# function print_user
+#   echo -n (set_color $USER_COLOR)"$USER@"
+# end
+
+# function get_branch --description="Get the current git branch information, if present"
+#   set branch_indicator \uF126
+#   set local_changes_indicator \uF01B
+#   set remote_changes_indicator \uF01A
+#   set small_circle \u26AC
+  
+#   set branch_name (git rev-parse --abbrev-ref HEAD 2> /dev/null)
+#   if test "$branch_name" != ""
+#     # /dev/null prevents nonsensical errors when you are on directories not tracked by git.
+#     if test (git status --porcelain 2> /dev/null | wc -l) -eq 0
+#       set indicator ""
+#     else
+#       set indicator "$local_changes_indicator"
+#     end
+    
+#     echo -n "(set_color $GIT_COLOR) $branch_indicator$indicator $branch_name"
+#   end
+# end
+
+function gpl --description="Auto prune and merge latest for the current branch"
+  git pull --all --prune --tags
+end
+
+function ghb --description="Calculate and attempt to open a GitHub URL for the current branch"
+  set URL (git remote get-url --push origin | sed 's/\.git$//g')/tree/(git rev-parse --abbrev-ref HEAD)
+  echo "launching url $url..."
+  if test (uname) = "Linux"
+    xdg-open $URL
+  else
+    open $URL
+  end
+end
+
+function glc --description="Calculate the most recent commit as a hyperlink and print it with an optional preamble"
+  git rev-parse HEAD > /dev/null 2>&1
+  if test "$status" -ne "0"
+    # not a git repo
+    set URL (pwd)
+  else
+    set URL (git remote get-url --push origin | sed 's/\.git$//g')
+    set URL "$URL/commit/"(git rev-parse HEAD)
+  end
+  echo "$argv$URL"
+end
+
+function blame --description="Calculate a blame URL for one line or a range of lines"
+  git rev-parse HEAD > /dev/null 2>&1
+  if test "$status" -ne "0"
+    # not a git repo
+    set URL (pwd)
+  else
+    set URL (git remote get-url --push origin | sed 's/\.git$//g')
+    set URL "$URL"/blame/(git rev-parse --abbrev-ref HEAD)
+  end
+  set URL "$URL/$argv[1]#L$argv[2]"
+
+  if test "$argv[3]" !=  ""
+    set URL "$URL-L$argv[3]"
+  end
+
+  open $URL
+end
+
+function fish_greeting
+  set_theme_colors
+  if test (uname) = "Darwin" 
+    and test "$TERM_PROGRAM" = "iTerm.app"
+    and test "$SSH_TTY" = ""
+      neofetch --iterm2 ~/src/dotfiles/assets/apple.png --size 450px
+  else if test (uname) = "Darwin" 
+    and test "$TERM" = "xterm-kitty"
+    and test "$SSH_TTY" = ""
+      neofetch --kitty ~/src/dotfiles/assets/apple.png --size 450px
+  else if test (uname) = "Linux"
+    and test "$TERM" = "xterm-kitty"
+    and test "$SSH_TTY" = ""
+      neofetch --kitty ~/src/dotfiles/assets/arch.png --size 450px
+  else if test "$TERM_PROGRAM" = "vscode"
+    # no-op
+  else
+    neofetch 
+  end
+end
+
+function cal --description="Expands the built-in calendar CLI to include current quarter, current year and end-of-year (qtr,cy,eoy) macro support.  Also very urgent and necessary lolcat integration."
+  if test "$argv" = ""
+    /usr/bin/cal | lolcat 2> /dev/null
+  else if test "$argv" = "qtr"
+    set current_month_num (date -u +"%m")
+    # a simple math trick to figure out how many months are completed in the current quarter
+    set months_back (echo "(($current_month_num - 1) % 3)" | bc)
+    # minus 2 here, instead of minus 3 because the utility always displays current month
+    set months_fwd (echo "(2 - $months_back)" | bc)
+    if test "$months_back" -gt 0
+      set back_months "-B$months_back"
+    end
+    if test "$months_fwd" -gt 0
+      set fwd_months "-A$months_fwd"
+    end
+    /usr/bin/cal $back_months $fwd_months | lolcat 2> /dev/null
+  else if test "$argv" = "eoy"
+    set current_month_num (date -u +"%m")
+    set eoy_diff (echo "12 - $current_month_num" | bc)
+    /usr/bin/cal -A$eoy_diff | lolcat 2> /dev/null
+  else if test "$argv" = "cy"
+    set current_year (date -u +"%Y")
+    /usr/bin/cal $current_year | lolcat 2> /dev/null
+  else
+    /usr/bin/cal $argv | lolcat 2> /dev/null
+  end
+end
+
+function set_theme_colors
+  if test "$FISH_THEME" = "gruvbox"
+    set -gx ERROR      CC241D
+    set -gx SUCCESS    98971A
+    set -gx USER_COLOR C46210
+    set -gx HOST_COLOR bfc225
+    set -gx DATE_COLOR FF9933
+    set -gx PATH_COLOR 268bd2
+    set -gx GIT_COLOR  b58900
+  else if test "$FISH_THEME" = "jellybeans"
+    set -gx ERROR      CB0000
+    set -gx SUCCESS    58A82F
+    set -gx USER_COLOR 3399FF
+    set -gx HOST_COLOR 00CC00
+    set -gx DATE_COLOR FF9933
+    set -gx PATH_COLOR 6B6FFF
+    set -gx GIT_COLOR  03A9F4
+  else
+    set -gx ERROR      red
+    set -gx SUCCESS    green
+    set -gx USER_COLOR blue
+    set -gx HOST_COLOR green
+    set -gx DATE_COLOR yellow
+    set -gx PATH_COLOR blue
+    set -gx GIT_COLOR  cyan
+  end
+end

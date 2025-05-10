@@ -1,0 +1,141 @@
+waybar: no process found
+
+(waybar:5130): Gtk-WARNING **: 01:49:35.186: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-06-13 01:49:35.204] [info] Using configuration file /home/nv/.config/sway/waybar/config
+[2024-06-13 01:50:00.230] [error] Error calling StartServiceByName for org.freedesktop.portal.Desktop: Timeout was reached
+
+(waybar:46741): Gtk-WARNING **: 03:39:26.374: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-13 03:39:26.392] [info] Using configuration file /home/nv/.config/waybar/config.jsonc
+[2024-10-13 03:39:26.394] [info] Discovered appearance 'dark'
+[2024-10-13 03:39:26.394] [info] Using CSS file /home/nv/.config/waybar/style.css
+[2024-10-13 03:39:26.398] [warning] Mapping is not an object
+[2024-10-13 03:39:26.418] [warning] Mapping is not an object
+[2024-10-13 03:39:26.640] [info] Bar configured (width: 1366, height: 30) for output: HDMI-A-1
+[2024-10-13 03:39:26.640] [info] Bar configured (width: 1920, height: 30) for output: DP-1
+
+** (waybar:46741): WARNING **: 03:39:26.643: Status Notifier Item with bus name ':1.644' and object path '/org/ayatana/NotificationItem/dropbox_client_45210' is already registered
+
+(waybar:46852): Gtk-WARNING **: 03:41:14.757: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-13 03:41:14.776] [info] Using configuration file /home/nv/.config/waybar/config.jsonc
+[2024-10-13 03:41:14.777] [info] Discovered appearance 'dark'
+[2024-10-13 03:41:14.778] [info] Using CSS file /home/nv/.config/waybar/style.css
+[2024-10-13 03:41:14.782] [warning] Mapping is not an object
+[2024-10-13 03:41:14.784] [warning] module custom-swaync: Unknown module: custom-swaync
+[2024-10-13 03:41:14.785] [warning] module custom-weather: Unknown module: custom-weather
+[2024-10-13 03:41:14.800] [warning] Mapping is not an object
+[2024-10-13 03:41:14.803] [warning] module custom-swaync: Unknown module: custom-swaync
+[2024-10-13 03:41:14.803] [warning] module custom-weather: Unknown module: custom-weather
+[2024-10-13 03:41:15.019] [info] Bar configured (width: 1366, height: 30) for output: HDMI-A-1
+[2024-10-13 03:41:15.019] [info] Bar configured (width: 1920, height: 30) for output: DP-1
+
+** (waybar:46852): WARNING **: 03:41:15.021: Status Notifier Item with bus name ':1.644' and object path '/org/ayatana/NotificationItem/dropbox_client_45210' is already registered
+
+(waybar:47064): Gtk-WARNING **: 03:43:21.024: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-13 03:43:21.043] [info] Using configuration file /home/nv/.config/waybar/config.jsonc
+[2024-10-13 03:43:21.045] [info] Discovered appearance 'dark'
+[2024-10-13 03:43:21.045] [info] Using CSS file /home/nv/.config/waybar/style.css
+[2024-10-13 03:43:21.048] [warning] Mapping is not an object
+[2024-10-13 03:43:21.051] [warning] module custom-swaync: Unknown module: custom-swaync
+[2024-10-13 03:43:21.052] [warning] module custom-weather: Unknown module: custom-weather
+[2024-10-13 03:43:21.067] [warning] Mapping is not an object
+[2024-10-13 03:43:21.070] [warning] module custom-swaync: Unknown module: custom-swaync
+[2024-10-13 03:43:21.070] [warning] module custom-weather: Unknown module: custom-weather
+[2024-10-13 03:43:21.285] [info] Bar configured (width: 1366, height: 30) for output: HDMI-A-1
+[2024-10-13 03:43:21.285] [info] Bar configured (width: 1920, height: 30) for output: DP-1
+
+** (waybar:47064): WARNING **: 03:43:21.288: Status Notifier Item with bus name ':1.644' and object path '/org/ayatana/NotificationItem/dropbox_client_45210' is already registered
+
+(waybar:47339): Gtk-WARNING **: 03:44:51.088: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-13 03:44:51.107] [info] Using configuration file /home/nv/.config/waybar/config.jsonc
+[2024-10-13 03:44:51.109] [info] Discovered appearance 'dark'
+[2024-10-13 03:44:51.109] [info] Using CSS file /home/nv/.config/waybar/style.css
+[2024-10-13 03:44:51.112] [warning] Mapping is not an object
+[2024-10-13 03:44:51.115] [warning] module swaync: Unknown module: swaync
+[2024-10-13 03:44:51.115] [warning] module weather: Unknown module: weather
+[2024-10-13 03:44:51.130] [warning] Mapping is not an object
+[2024-10-13 03:44:51.133] [warning] module swaync: Unknown module: swaync
+[2024-10-13 03:44:51.134] [warning] module weather: Unknown module: weather
+[2024-10-13 03:44:51.350] [info] Bar configured (width: 1366, height: 30) for output: HDMI-A-1
+[2024-10-13 03:44:51.350] [info] Bar configured (width: 1920, height: 30) for output: DP-1
+
+** (waybar:47339): WARNING **: 03:44:51.352: Status Notifier Item with bus name ':1.644' and object path '/org/ayatana/NotificationItem/dropbox_client_45210' is already registered
+Gdk-Message: 03:45:16.003: Lost connection to Wayland compositor.
+
+(waybar:48930): Gtk-WARNING **: 03:47:20.085: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-13 03:47:20.104] [info] Using configuration file /home/nv/.config/waybar/config.jsonc
+[2024-10-13 03:47:20.106] [info] Discovered appearance 'dark'
+[2024-10-13 03:47:20.106] [info] Using CSS file /home/nv/.config/waybar/style.css
+[2024-10-13 03:47:20.109] [warning] Mapping is not an object
+[2024-10-13 03:47:20.130] [warning] Mapping is not an object
+
+** (waybar:48930): WARNING **: 03:47:20.347: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+[2024-10-13 03:47:20.352] [info] Bar configured (width: 1366, height: 30) for output: HDMI-A-1
+[2024-10-13 03:47:20.352] [error] Item '': No icon name or pixmap given.
+[2024-10-13 03:47:20.370] [info] Bar configured (width: 1920, height: 30) for output: DP-1
+
+(waybar:49711): Gtk-WARNING **: 03:49:57.326: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-13 03:49:57.345] [info] Using configuration file /home/nv/.config/waybar/config.jsonc
+[2024-10-13 03:49:57.347] [info] Discovered appearance 'dark'
+[2024-10-13 03:49:57.347] [info] Using CSS file /home/nv/.config/waybar/style.css
+[2024-10-13 03:49:57.351] [warning] Mapping is not an object
+[2024-10-13 03:49:57.372] [warning] Mapping is not an object
+[2024-10-13 03:49:57.601] [info] Bar configured (width: 1366, height: 25) for output: HDMI-A-1
+
+** (waybar:49711): WARNING **: 03:49:57.602: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+[2024-10-13 03:49:57.602] [info] Bar configured (width: 1920, height: 25) for output: DP-1
+[2024-10-13 03:49:57.602] [error] Item '': No icon name or pixmap given.
+
+(waybar:49920): Gtk-WARNING **: 03:50:54.322: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-13 03:50:54.340] [info] Using configuration file /home/nv/.config/waybar/config.jsonc
+[2024-10-13 03:50:54.342] [info] Discovered appearance 'dark'
+[2024-10-13 03:50:54.342] [info] Using CSS file /home/nv/.config/waybar/style.css
+[2024-10-13 03:50:54.346] [warning] Mapping is not an object
+[2024-10-13 03:50:54.366] [warning] Mapping is not an object
+[2024-10-13 03:50:54.594] [info] Bar configured (width: 1366, height: 25) for output: HDMI-A-1
+[2024-10-13 03:50:54.594] [info] Bar configured (width: 1920, height: 25) for output: DP-1
+
+** (waybar:49920): WARNING **: 03:50:54.597: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+
+(waybar:50105): Gtk-WARNING **: 03:53:39.365: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-13 03:53:39.383] [info] Using configuration file /home/nv/.config/waybar/config.jsonc
+[2024-10-13 03:53:39.385] [info] Discovered appearance 'dark'
+[2024-10-13 03:53:39.385] [info] Using CSS file /home/nv/.config/waybar/style.css
+[2024-10-13 03:53:39.389] [warning] Mapping is not an object
+[2024-10-13 03:53:39.409] [warning] Mapping is not an object
+[2024-10-13 03:53:39.637] [info] Bar configured (width: 1366, height: 25) for output: HDMI-A-1
+[2024-10-13 03:53:39.637] [info] Bar configured (width: 1920, height: 25) for output: DP-1
+
+** (waybar:50105): WARNING **: 03:53:39.640: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+
+** (waybar:50105): WARNING **: 03:56:42.093: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+
+** (waybar:50105): WARNING **: 01:42:44.244: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+
+** (waybar:50105): WARNING **: 01:44:28.296: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+
+** (waybar:50105): WARNING **: 02:29:06.565: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+
+(waybar:77121): Gtk-WARNING **: 02:32:08.865: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-14 02:32:08.883] [info] Using configuration file /home/nv/.config/waybar/config.jsonc
+[2024-10-14 02:32:08.885] [info] Discovered appearance 'dark'
+[2024-10-14 02:32:08.885] [info] Using CSS file /home/nv/.config/waybar/style.css
+[2024-10-14 02:32:08.889] [warning] Mapping is not an object
+[2024-10-14 02:32:08.911] [warning] Mapping is not an object
+[2024-10-14 02:32:09.176] [info] Bar configured (width: 1366, height: 25) for output: HDMI-A-1
+
+** (waybar:77121): WARNING **: 02:32:09.177: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+[2024-10-14 02:32:09.177] [info] Bar configured (width: 1920, height: 25) for output: DP-1
+[2024-10-14 02:32:09.177] [error] Item '': No icon name or pixmap given.
+
+(waybar:90264): Gtk-WARNING **: 02:59:44.361: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-14 02:59:44.380] [info] Using configuration file /home/nv/.config/waybar/config.jsonc
+[2024-10-14 02:59:44.382] [info] Discovered appearance 'dark'
+[2024-10-14 02:59:44.382] [info] Using CSS file /home/nv/.config/waybar/style.css
+[2024-10-14 02:59:44.386] [warning] Mapping is not an object
+[2024-10-14 02:59:44.407] [warning] Mapping is not an object
+
+** (waybar:90264): WARNING **: 02:59:44.624: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+[2024-10-14 02:59:44.638] [info] Bar configured (width: 1366, height: 25) for output: HDMI-A-1
+[2024-10-14 02:59:44.638] [error] Item '': No icon name or pixmap given.
+[2024-10-14 02:59:44.650] [info] Bar configured (width: 1920, height: 25) for output: DP-1
+Gdk-Message: 18:37:14.606: Lost connection to Wayland compositor.

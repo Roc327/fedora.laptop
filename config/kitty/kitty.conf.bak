@@ -1,0 +1,26 @@
+shell fish
+
+# Font
+font_family MesloLGS NF
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+
+font_size 13.00
+
+# Styles
+window_padding_width 2
+background_opacity 0.80
+background_blur 10
+
+# Colors
+# foreground #CBE0F0
+# background #011423
+# selection_foreground #CBE0F0
+# selection_background #033259
+
+
+# BEGIN_KITTY_THEME
+# Catppuccin-Mocha
+include current-theme.conf
+# END_KITTY_THEME

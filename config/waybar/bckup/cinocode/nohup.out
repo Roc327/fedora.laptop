@@ -1,0 +1,2924 @@
+
+(waybar:79176): Gtk-WARNING **: 02:46:18.688: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-14 02:46:18.707] [info] Using configuration file /home/nv/.config/waybar/cinocode/config
+[2024-10-14 02:46:18.710] [info] Discovered appearance 'dark'
+[2024-10-14 02:46:18.710] [info] Using CSS file /home/nv/.config/waybar/cinocode/style.css
+[2024-10-14 02:46:18.713] [warning] Mapping is not an object
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+[2024-10-14 02:46:18.727] [warning] No batteries.
+[2024-10-14 02:46:18.745] [warning] Mapping is not an object
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+[2024-10-14 02:46:18.761] [warning] No batteries.
+
+** (waybar:79176): WARNING **: 02:46:18.973: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+[2024-10-14 02:46:18.985] [warning] Requested height: 30 is less than the minimum height: 36 required by the modules
+[2024-10-14 02:46:18.985] [info] Bar configured (width: 1366, height: 36) for output: HDMI-A-1
+[2024-10-14 02:46:18.985] [error] Item '': No icon name or pixmap given.
+[2024-10-14 02:46:18.999] [warning] Requested height: 30 is less than the minimum height: 39 required by the modules
+[2024-10-14 02:46:18.999] [info] Bar configured (width: 1920, height: 39) for output: DP-1
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+[2024-10-14 02:46:34.092] [info] Bar configured (width: 1920, height: 36) for output: DP-1
+[2024-10-14 02:46:34.110] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2024-10-14 02:46:34.110] [info] Bar configured (width: 1366, height: 39) for output: HDMI-A-1
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+[2024-10-14 02:46:37.293] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2024-10-14 02:46:37.293] [info] Bar configured (width: 1920, height: 39) for output: DP-1
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+[2024-10-14 02:46:39.692] [info] Bar configured (width: 1920, height: 36) for output: DP-1
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+[2024-10-14 02:46:44.044] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2024-10-14 02:46:44.044] [info] Bar configured (width: 1920, height: 39) for output: DP-1
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+ls: cannot access '/home/nv/.config/dots'/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+
+(waybar:86831): Gtk-WARNING **: 02:56:16.763: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-14 02:56:16.783] [info] Using configuration file /home/nv/.config/waybar/cinocode/config
+[2024-10-14 02:56:16.785] [info] Discovered appearance 'dark'
+[2024-10-14 02:56:16.785] [info] Using CSS file /home/nv/.config/waybar/cinocode/style.css
+[2024-10-14 02:56:16.789] [warning] Mapping is not an object
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+[2024-10-14 02:56:16.803] [warning] No batteries.
+[2024-10-14 02:56:16.821] [warning] Mapping is not an object
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+[2024-10-14 02:56:16.837] [warning] No batteries.
+
+** (waybar:86831): WARNING **: 02:56:16.948: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+[2024-10-14 02:56:17.056] [warning] Requested height: 25 is less than the minimum height: 36 required by the modules
+[2024-10-14 02:56:17.056] [info] Bar configured (width: 1366, height: 36) for output: HDMI-A-1
+[2024-10-14 02:56:17.057] [warning] Requested height: 25 is less than the minimum height: 39 required by the modules
+[2024-10-14 02:56:17.057] [info] Bar configured (width: 1920, height: 39) for output: DP-1
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+
+(waybar:88324): Gtk-WARNING **: 02:57:45.875: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-14 02:57:45.893] [info] Using configuration file /home/nv/.config/waybar/cinocode/config
+[2024-10-14 02:57:45.895] [info] Discovered appearance 'dark'
+[2024-10-14 02:57:45.895] [info] Using CSS file /home/nv/.config/waybar/cinocode/style.css
+[2024-10-14 02:57:45.900] [warning] Mapping is not an object
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+[2024-10-14 02:57:45.914] [warning] No batteries.
+[2024-10-14 02:57:45.931] [warning] Mapping is not an object
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+[2024-10-14 02:57:45.947] [warning] No batteries.
+
+** (waybar:88324): WARNING **: 02:57:46.059: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+[2024-10-14 02:57:46.167] [warning] Requested height: 22 is less than the minimum height: 36 required by the modules
+[2024-10-14 02:57:46.167] [info] Bar configured (width: 1366, height: 36) for output: HDMI-A-1
+[2024-10-14 02:57:46.167] [warning] Requested height: 22 is less than the minimum height: 39 required by the modules
+[2024-10-14 02:57:46.167] [info] Bar configured (width: 1920, height: 39) for output: DP-1
+[2024-10-14 02:57:46.509] [error] custom/weather: Error parsing JSON: * Line 1, Column 92
+  Bad escape sequence in string
+See Line 1, Column 164 for detail.
+
+[2024-10-14 02:57:46.517] [error] custom/weather: Error parsing JSON: * Line 1, Column 92
+  Bad escape sequence in string
+See Line 1, Column 164 for detail.
+
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+
+(waybar:89107): Gtk-WARNING **: 02:58:30.240: Theme parsing error: gtk-dark.css:6616:68: Invalid name of pseudo-class
+[2024-10-14 02:58:30.259] [info] Using configuration file /home/nv/.config/waybar/cinocode/config
+[2024-10-14 02:58:30.261] [info] Discovered appearance 'dark'
+[2024-10-14 02:58:30.261] [info] Using CSS file /home/nv/.config/waybar/cinocode/style.css
+[2024-10-14 02:58:30.264] [warning] Mapping is not an object
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+[2024-10-14 02:58:30.280] [warning] No batteries.
+[2024-10-14 02:58:30.297] [warning] Mapping is not an object
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/weather.sh: line 2: /home/nv/.config/dots/zshrc.local: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+[2024-10-14 02:58:30.312] [warning] No batteries.
+
+** (waybar:89107): WARNING **: 02:58:30.423: Status Notifier Item with bus name ':1.688' and object path '/org/ayatana/NotificationItem/dropbox_client_48362' is already registered
+[2024-10-14 02:58:30.530] [warning] Requested height: 22 is less than the minimum height: 36 required by the modules
+[2024-10-14 02:58:30.530] [info] Bar configured (width: 1366, height: 36) for output: HDMI-A-1
+[2024-10-14 02:58:30.530] [warning] Requested height: 22 is less than the minimum height: 39 required by the modules
+[2024-10-14 02:58:30.530] [info] Bar configured (width: 1920, height: 39) for output: DP-1
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+[2024-10-14 02:59:22.472] [info] Bar configured (width: 1920, height: 36) for output: DP-1
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+[2024-10-14 02:59:26.407] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2024-10-14 02:59:26.407] [info] Bar configured (width: 1366, height: 39) for output: HDMI-A-1
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 4: cd: /home/nv/.password-store: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 12: cd: /home/nv/note: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 20: cd: /home/nv/doc: No such file or directory
+/home/nv/.config/waybar/cinocode/modules/unsync.sh: line 28: cd: /home/nv/sync: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+[2024-10-14 02:59:31.146] [info] Bar configured (width: 1366, height: 36) for output: HDMI-A-1
+[2024-10-14 02:59:31.147] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2024-10-14 02:59:31.147] [info] Bar configured (width: 1920, height: 39) for output: DP-1
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+/home/nv/.config/waybar/cinocode/modules/tidepool.sh: line 3: tidepool-cli: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: /home/nv/.bin/lht_ping: No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+sh: line 1: cmus-remote: command not found
+sh: line 1: cmus-remote: command not found
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
+ls: cannot access '/home/nv/.config/dots': No such file or directory
